@@ -42,3 +42,20 @@ Driver drowsiness detection system 🚗💤
 Workplace fatigue monitoring
 
 Real-time eye tracking applications
+
+🚀 How to Run
+
+1.Clone the repository
+
+git clone https://github.com/your-username/drowsiness-detector.git
+cd drowsiness-detector
+
+2.Install dependencies
+
+pip install opencv-python
+
+3.Run the script
+
+python drowsiness_detector.py
+
+Press ESC to exit the program.
