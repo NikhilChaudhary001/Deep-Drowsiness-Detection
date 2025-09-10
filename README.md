@@ -47,8 +47,7 @@ Real-time eye tracking applications
 
 1.Clone the repository
 
-git clone https://github.com/your-username/drowsiness-detector.git
-cd drowsiness-detector
+git clone 
 
 2.Install dependencies
 
@@ -58,4 +57,4 @@ pip install opencv-python
 
 python drowsiness_detector.py
 
-Press ESC to exit the program.
+
